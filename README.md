@@ -104,6 +104,6 @@ const youssefEid = {
 
 # 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/youssef-eid-a931a0351/))
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColo)]()
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColo)](https://mail.google.com/mail/u/0/#inbox)
