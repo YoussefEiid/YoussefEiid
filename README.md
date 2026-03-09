@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Shawki+👋;Front-End+Developer;React+Enthusiast;Building+Beautiful+UIs)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=header&fontSize=0" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Youssef+Eid+👋;Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=header"/>
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedshawki&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS)
