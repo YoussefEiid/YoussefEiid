@@ -1,75 +1,109 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Shawki+👋;Front-End+Developer;React+Enthusiast;Building+Beautiful+UIs)](https://git.io/typing-svg)
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=header&fontSize=0" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=32\&duration=3000\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Youssef+Eid+👋;Full+Stack+.NET+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedshawki&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ahmedshawki?style=for-the-badge&color=70A5FD&labelColor=1a1b27&label=FOLLOWERS)](https://github.com/ahmedshawki)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=header"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```javascript
-const ahmed = {
-  name:       "Ahmed Shawki",
-  role:       "Front-End Developer (React Track)",
-  location:   "🇪🇬 Egypt",
-  focus:      ["React", "JavaScript", "UI/UX"],
-  learning:   "Advanced React Patterns & TypeScript",
-  goal:       "Building clean, fast, and beautiful web experiences",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-};
+const youssefEid = {
+  role: "Full Stack Developer",
+  location: "Egypt 🇪🇬",
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap"
+  ],
+
+  backend: [
+    ".NET",
+    "ASP.NET MVC",
+    "Python",
+    "Django"
+  ],
+
+  database: [
+    "SQL Server",
+    "MySQL"
+  ],
+
+  projects: [
+    "E-commerce Website",
+    "Web Applications",
+    "Database Systems"
+  ],
+
+  goal: "Build scalable and efficient web applications"
+}
 ```
 
 ---
 
-<div align="center">
+# 🚀 Tech Stack
 
-## 🚀 Tech Stack
+## 🎨 Front-End
 
-### 💻 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cppreference.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🗄️ Databases & Version Control
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
-## 🛠️ Tools
+## ⚙️ Back-End
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
 ---
 
+## 🗄️ Databases
 
-## 📬 Contact Me
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shawki-8538042b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshawki@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedShawkiii)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer&fontSize=0" width="100%"/>
+# 🛠 Tools
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-</div>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![Youssef GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColo)]()
