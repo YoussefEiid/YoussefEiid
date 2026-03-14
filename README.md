@@ -75,9 +75,9 @@ const youssef = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](PUT_YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefeiid.github.io/portfolio/)
 
-[![Download CV](https://img.shields.io/badge/📄%20Download%20CV-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](PUT_YOUR_CV_LINK_HERE)
+[![Download CV](https://img.shields.io/badge/📄%20Download%20CV-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](file:///C:/Users/dell/Downloads/Youssef_Eid_Said_FlowCV_Resume_2026-03-10.pdf)
 
 </div>
 
