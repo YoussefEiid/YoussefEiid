@@ -72,6 +72,6 @@ const youssef = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer&fontSize=0" width="100%"/>
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+*"First, solve the problem. Then, write the code." – Youssef Eid*
 
 </div>
