@@ -76,8 +76,8 @@ const youssef = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefeiid.github.io/portfolio/)
-<a href="files/Youssef_Eid_CV.pdf" download class="btn btn-primary">
-    Download CV
+<a href="files/Youssef_Eid_CV.pdf" download class="btn btn-success btn-lg">
+    ⬇ Download CV
 </a>
 </div>
 
