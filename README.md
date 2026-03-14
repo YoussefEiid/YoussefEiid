@@ -69,7 +69,19 @@ const youssef = {
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefEiid)
 ---
+---
 
+## 🌐 My Portfolio & CV
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](PUT_YOUR_PORTFOLIO_LINK_HERE)
+
+[![Download CV](https://img.shields.io/badge/📄%20Download%20CV-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](PUT_YOUR_CV_LINK_HERE)
+
+</div>
+
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer&fontSize=0" width="100%"/>
 
 *"First, solve the problem. Then, write the code." – Youssef Eid*
